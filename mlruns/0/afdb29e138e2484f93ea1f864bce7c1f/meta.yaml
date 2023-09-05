@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-End-DeepLearning-Projects/Wine-Quality-Prediction/mlruns/0/afdb29e138e2484f93ea1f864bce7c1f/artifacts
+end_time: 1693877895607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afdb29e138e2484f93ea1f864bce7c1f
+run_name: bouncy-ray-792
+run_uuid: afdb29e138e2484f93ea1f864bce7c1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693877892390
+status: 3
+tags: []
+user_id: charith.bimsara_root

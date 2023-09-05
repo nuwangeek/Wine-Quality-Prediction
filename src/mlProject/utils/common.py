@@ -28,6 +28,7 @@ def read_yaml(path_to_yaml: Path) -> ConfigBox:
     """
 
     try:
+        print(path_to_yaml)
         with open(path_to_yaml) as yaml_file:
             content = yaml.safe_load(yaml_file)
             logger.info(f"yaml file loaded from: {path_to_yaml} successfully")

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-End-DeepLearning-Projects/Wine-Quality-Prediction/mlruns/0/b8f03a81f64142f7a490ff6bea9d022e/artifacts
+end_time: 1693877989522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8f03a81f64142f7a490ff6bea9d022e
+run_name: indecisive-stag-878
+run_uuid: b8f03a81f64142f7a490ff6bea9d022e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693877986253
+status: 3
+tags: []
+user_id: charith.bimsara_root
